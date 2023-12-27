@@ -3,4 +3,5 @@ I am a student
 I have complete my HSC in 2020
 I have complete my SSC in 2019 
 Logo alignment is centered
-new line from feature branch 
+new line
+
